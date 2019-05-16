@@ -1,1 +1,2 @@
-Computer Organization(CSE341) Projects: Calculator, Hamming Distance, and Euclidean
+# Computer-Oragnization-Final-Project
+CSE 341, Assignment description can be found in the PDF.
